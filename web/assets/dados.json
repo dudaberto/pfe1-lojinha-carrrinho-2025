@@ -1,0 +1,52 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Gel para Sobrancelhas Brow Rise - Ruby Rose",
+            "descricao": "Gel ultrafixador para sobrancelhas com alta fixação e acabamento natural.",
+            "preco": 18.90,
+            "categoria": "Maquiagem",
+            "imagem": "assets/images/gel.webp"
+        },
+        {
+            "id": 2,
+            "nome": "Base Líquida Soft Matte Studio Fix FPS15",
+            "descricao": "Acabamento Matte, Cobertura Construtível Média a Alta, Controla a Oleosidade.",
+            "preco": 299.00,
+            "categoria": "Maquiagem",
+            "imagem": "assets/images/base.avif"
+        },
+        {
+            "id": 3,
+            "nome": "Corretivo Líquido Born This Way Super Coverage",
+            "descricao": "Perfeição, Hidratação, Durabilidade.",
+            "preco": 279.00,
+            "categoria": "Maquiagem",
+            "imagem": "assets/images/corretivooo.webp"
+        },
+        {
+            "id": 4,
+            "nome": "Blush Líquido Rare Beauty Soft Pinch",
+            "descricao": "Fórmula leve e de fácil aplicação permite construir camadas, proporcionando desde um brilho sutil até uma cor intensa.",
+            "preco": 199.00,
+            "categoria": "Maquiagem",
+            "imagem": "assets/images/blush.avif"
+        },
+        {
+            "id": 5,
+            "nome": "Contour Stick Dark Océane Edition",
+            "descricao": "Acabamento profissional, que destaca e define os contornos do rosto de forma incrivelmente natural.",
+            "preco": 79.90,
+            "categoria": "Maquiagem",
+            "imagem": "assets/images/contorno.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "M.a.c Mineralize Skinfinish Global Glow Soft & Gentle Pó Iluminador",
+            "descricao": "Iluminador oil-free de textura leve: brilho natural sem oleosidade ou acúmulo.",
+            "preco": 199.90,
+            "categoria": "Maquiagem",
+            "imagem": "assets/images/iluminador.webp"
+        }
+    ]
+}
